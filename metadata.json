@@ -1,0 +1,6 @@
+{
+  "name": "GTA VII: Neo-Metropolis Sandbox",
+  "description": "3D open-world urban sandbox with realistic vehicle soft-body deformation, suspension physics, detailed multi-part vehicles, living pedestrians, road traffic, grand suspension bridges, and 1st/3rd person cameras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
